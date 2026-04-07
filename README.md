@@ -14,7 +14,7 @@ Portfolio 1 — Mega-Cap only
 Portfolio 2 — High-Volatility only
 Portfolio 3 — Combined (14 stocks)
 
-Screenshot 2026-04-06 191155.png
+![Dashboard](dashboard.png)
 
 💡 Key Findings
 
