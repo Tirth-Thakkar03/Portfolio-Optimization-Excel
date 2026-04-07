@@ -14,8 +14,6 @@ Portfolio 1 — Mega-Cap only
 Portfolio 2 — High-Volatility only
 Portfolio 3 — Combined (14 stocks)
 
-![Dashboard](Screenshot 2026-04-06 191155.png)
-
 💡 Key Findings
 
 Diversification confirmed — The combined 14-stock portfolio achieved lower variance (0.000786) than either sub-portfolio alone, validating cross-universe diversification benefits.
